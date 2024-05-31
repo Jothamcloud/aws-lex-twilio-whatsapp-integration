@@ -138,6 +138,10 @@ The Lambda function code used in this project is included in the lambda_function
 - Set up DynamoDB tables to store order statuses and product information.
 - Configured Twilio to forward WhatsApp messages to Amazon Lex and respond back to users.
 
+Here is a screenshot showing the bot in action on WhatsApp:
+
+This image demonstrates the successful integration of Amazon Lex, AWS Lambda, and Twilio to enable a chatbot interaction via WhatsApp.
+
 ## Additional Resources
 - Amazon Lex Documentation: [Amazon Lex](https://docs.aws.amazon.com/lex/)
 - AWS Lambda Documentation: [AWS Lambda](https://docs.aws.amazon.com/lambda/)
