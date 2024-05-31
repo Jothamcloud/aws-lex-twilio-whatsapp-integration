@@ -139,7 +139,7 @@ The Lambda function code used in this project is included in the lambda_function
 - Configured Twilio to forward WhatsApp messages to Amazon Lex and respond back to users.
 
 Here is a screenshot showing the bot in action on WhatsApp:
-
+(bot-in-action.jpg)
 This image demonstrates the successful integration of Amazon Lex, AWS Lambda, and Twilio to enable a chatbot interaction via WhatsApp.
 
 ## Additional Resources
