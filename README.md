@@ -20,7 +20,7 @@ This project integrates Amazon Lex, AWS Lambda, and Twilio to create a chatbot t
 7. Twilio delivers the response to the user on WhatsApp.
 
 ### Architectural Diagram
-![Architectural Diagram](images/architectural-diagram.png)
+![Architectural Diagram](architectural-diagram.png)
 
 ## Deployment Steps
 
@@ -147,5 +147,4 @@ This image demonstrates the successful integration of Amazon Lex, AWS Lambda, an
 - AWS Lambda Documentation: [AWS Lambda](https://docs.aws.amazon.com/lambda/)
 - Twilio Documentation: [Twilio](https://www.twilio.com/docs/)
 
-## Architectural Diagram
-![Architectural Diagram](Architectural Diagram.png)
+
