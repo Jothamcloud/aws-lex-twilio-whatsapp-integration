@@ -140,6 +140,8 @@ The Lambda function code used in this project is included in the lambda_function
 
 Here is a screenshot showing the bot in action on WhatsApp:
 ![Bot Working on Whatsapp](bot-in-action.jpg)
+
+
 This image demonstrates the successful integration of Amazon Lex, AWS Lambda, and Twilio to enable a chatbot interaction via WhatsApp.
 
 ## Additional Resources
